@@ -1,0 +1,14 @@
+C:\Users\alexandra.lignell\Documents\Programmering\Lucktext\Lucktext\bin\Debug\net7.0\Lucktext.exe
+C:\Users\alexandra.lignell\Documents\Programmering\Lucktext\Lucktext\bin\Debug\net7.0\Lucktext.deps.json
+C:\Users\alexandra.lignell\Documents\Programmering\Lucktext\Lucktext\bin\Debug\net7.0\Lucktext.runtimeconfig.json
+C:\Users\alexandra.lignell\Documents\Programmering\Lucktext\Lucktext\bin\Debug\net7.0\Lucktext.dll
+C:\Users\alexandra.lignell\Documents\Programmering\Lucktext\Lucktext\bin\Debug\net7.0\Lucktext.pdb
+C:\Users\alexandra.lignell\Documents\Programmering\Lucktext\Lucktext\obj\Debug\net7.0\Lucktext.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alexandra.lignell\Documents\Programmering\Lucktext\Lucktext\obj\Debug\net7.0\Lucktext.AssemblyInfoInputs.cache
+C:\Users\alexandra.lignell\Documents\Programmering\Lucktext\Lucktext\obj\Debug\net7.0\Lucktext.AssemblyInfo.cs
+C:\Users\alexandra.lignell\Documents\Programmering\Lucktext\Lucktext\obj\Debug\net7.0\Lucktext.csproj.CoreCompileInputs.cache
+C:\Users\alexandra.lignell\Documents\Programmering\Lucktext\Lucktext\obj\Debug\net7.0\Lucktext.dll
+C:\Users\alexandra.lignell\Documents\Programmering\Lucktext\Lucktext\obj\Debug\net7.0\refint\Lucktext.dll
+C:\Users\alexandra.lignell\Documents\Programmering\Lucktext\Lucktext\obj\Debug\net7.0\Lucktext.pdb
+C:\Users\alexandra.lignell\Documents\Programmering\Lucktext\Lucktext\obj\Debug\net7.0\Lucktext.genruntimeconfig.cache
+C:\Users\alexandra.lignell\Documents\Programmering\Lucktext\Lucktext\obj\Debug\net7.0\ref\Lucktext.dll
